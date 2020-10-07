@@ -32,6 +32,7 @@ public class MyMain {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Please input two string variables and proceed by submitting enter");
 		Scanner scan = new Scanner(System.in);
 		String a = scan.next();
 		String b = scan.next();
